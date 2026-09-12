@@ -1,3 +1,6 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoriAKM&layout=compact&langs_count=6&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # EN
 ## Hello!
 My name is Akhmed. Я живу в России (I live in Russia), I'm 13 years old, and I love Linux :)
@@ -16,15 +19,20 @@ Just search in google this model
 
 ### Who am I
 I'm a junior developer. I write in VS Code, and when I'm in the tty — I use Vim.
-I know **Python, Lua, HTML, and C**. My main project now is [NeoUtils](https://neoriakm.github.io/neoutils)
+
+I know **Python, C, Lua and HTML&CSS**.
+
+[![](https://skillicons.dev/icons?i=python,c,lua,html,linux,git,vim,bash,arch&theme=dark)](https://skillicons.dev)
+
+My main and only 2 projects now is [NeoUtils](https://github.com/neoriakm/neoutils) & [NeUI](https://github.com/neoriakm/neui)
 
 ### My tools:
 - **Terminal** : Alacritty
 - **Shell**    : fish
-- **DE/WM**    : KDE plasma, i3 (sometimes)
+- **DE/WM**    : XFCE4, sometimes KDE Plasma
 
-### Fun facts about me:
-
+---
+---
 # RU
 ## Привет!
 Меня зовут Ахмед. Я живу в России, мне 13 лет, и я люблю линукс :)
@@ -42,12 +50,18 @@ I know **Python, Lua, HTML, and C**. My main project now is [NeoUtils](https://n
 
 ### Кто я
 Я junior разработчик. Я пишу в VS Code, а когда в tty - использую Vim.
-Знаю **Python, C, Lua и HTML**. Основной мой проект - это [NeoUtils](https://neoriakm.github.io/neoutils)
+
+Знаю **Python, C, Lua и HTML**.
+
+[![](https://skillicons.dev/icons?i=python,c,lua,html,linux,git,vim,bash,arch&theme=dark)](https://skillicons.dev)
+
+Основные и единственные мои проекты - это [NeoUtils](https://github.com/neoriakm/neoutils) & [NeUI](https://github.com/neoriakm/neui)
 
 ### Мои инструменты
 - **Терминал**: alacritty
 - **Командная оболочка**: fish
-- **Среда рабочего стола**: KDE Plasma, иногда i3wm
+- **Среда рабочего стола**: XFCE4, иногда KDE Plasma
 
 
+---
 Спасибо за то что дочитал / Thanks for reading!
