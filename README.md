@@ -1,5 +1,8 @@
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NeoriAKM&layout=compact&theme=monokai&hide=html,css&card_width=400)](https://github.com/stats-organization/github-stats-extended)
 [![NeUI Repo](https://github-stats-extended.vercel.app/api/pin/?username=NeoriAKM&repo=neui&theme=monokai)](https://github.com/NeoriAKM/neui)
+[![NeoUtils Repo](https://github-stats-extended.vercel.app/api/pin/?username=NeoriAKM&repo=neoutils&theme=monokai)](https://github.com/NeoriAKM/neoutils)
+
+
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NeoriAKM&layout=compact&theme=monokai&hide=html,css&card_width=400)](https://github.com/stats-organization/github-stats-extended)
 
 
 # EN
