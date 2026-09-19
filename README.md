@@ -3,6 +3,7 @@
 
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=NeoriAKM&layout=compact&theme=monokai&hide=html,css&card_width=400)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs all](https://github-stats-extended.vercel.app/api/top-langs/?username=NeoriAKM&layout=compact&theme=monokai&card_width=400)](https://github.com/stats-organization/github-stats-extended)
 
 
 # EN
