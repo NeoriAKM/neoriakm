@@ -1,4 +1,4 @@
-[![NeUI Repo](https://github-stats-extended.vercel.app/api/pin/?username=NeoriAKM&repo=neui&theme=monokai)](https://github.com/NeoriAKM/neui)
+[![CzapaOS Repo](https://github-stats-extended.vercel.app/api/pin/?username=NeoriAKM&repo=czapaos&theme=monokai)](https://github.com/NeoriAKM/czapaos)
 [![NeoUtils Repo](https://github-stats-extended.vercel.app/api/pin/?username=NeoriAKM&repo=neoutils&theme=monokai)](https://github.com/NeoriAKM/neoutils)
 
 
